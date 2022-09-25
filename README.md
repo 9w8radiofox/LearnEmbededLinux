@@ -34,6 +34,8 @@ and
 https://blog.csdn.net/zhengqijun_/article/details/65440908
 and 
 https://blog.csdn.net/nitonggui/article/details/115816983
+and
+https://blog.csdn.net/shengnan_wu/article/details/8142996
 
 1. Download https://cfhcable.dl.sourceforge.net/project/sunsea1026/work/arm-linux-gcc-4.3.2.tgz
 2. tar -xvzf arm-linux-gcc-4.3.2.tgz
