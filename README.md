@@ -32,6 +32,8 @@ Another set from
 https://developer.aliyun.com/article/538636?spm=a2c6h.13813017.content3.22.4f3f42d9SzkXoK
 and
 https://blog.csdn.net/zhengqijun_/article/details/65440908
+and 
+https://blog.csdn.net/nitonggui/article/details/115816983
 
 1. Download https://cfhcable.dl.sourceforge.net/project/sunsea1026/work/arm-linux-gcc-4.3.2.tgz
 2. tar -xvzf arm-linux-gcc-4.3.2.tgz
